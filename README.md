@@ -9,10 +9,10 @@ The project focuses on Event-Related Potential Analysis during a Dual N-Back Tas
 
 - **/CODES**  
   MATLAB scripts and functions used throughout the dissertation.  
-  Includes preprocessing, signal analysis, ERP extraction, and visualization routines.
+  Includes signal analysis, ERP extraction, and visualization routines.
 
 - **/FIGURES**  
-  Output figures generated from the analyses (ERPs, topoplots, preprocessing flowcharts, etc.) that are included in the dissertation.
+  Output figures generated from the analyses (ERPs and topoplots) that are included in the dissertation.
 
 - **README.md**  
   Documentation of the repository.
