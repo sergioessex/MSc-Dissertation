@@ -1,7 +1,7 @@
 # MSc-Dissertation 
 
 This repository contains the **MATLAB codes** and **figures** used in my MSc dissertation.  
-The project focuses on the analysis and visualization of EEG/ERP signals during cognitive tasks, with preprocessing, artifact correction, and statistical analysis implemented in MATLAB.
+The project focuses on the a Event-Related Potential Analysis during a Dual N-Back Task in Healthy Adults: Preliminary Study within a BCI Framework for AI-Driven Neurorehabilitation of COVID-19–Related Neurological Sequelae
 
 ---
 
